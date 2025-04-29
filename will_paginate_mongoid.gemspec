@@ -20,5 +20,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_runtime_dependency "mongoid"
-  s.add_runtime_dependency "will_paginate", "~> 3.0"
+  s.add_runtime_dependency "will_paginate", "~> 4.0"
 end
